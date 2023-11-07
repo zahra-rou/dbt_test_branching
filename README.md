@@ -8,3 +8,5 @@ Hellooo from feature2
 Hellooo from feature3
 
 Hellooo from feature5
+
+Hellooo from feature6
